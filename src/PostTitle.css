@@ -1,0 +1,8 @@
+.input-container {
+    display: flex;
+  }
+  
+  .input-container label {
+    margin-right: 10px; 
+  }
+

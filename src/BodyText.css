@@ -1,0 +1,14 @@
+.body-container {
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start;
+}
+
+.body-container label {
+  margin-bottom: 8px; 
+}
+
+.body-container .ui.massive.input > input {
+  width: 100%;
+  height: 58px; 
+}
